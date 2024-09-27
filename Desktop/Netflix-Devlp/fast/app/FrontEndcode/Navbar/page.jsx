@@ -35,7 +35,6 @@ const Navbar = () => {
           </button>
         </div>
 
-        {/* Nav Links */}
         <ul
           className={`${
             isOpen ? "block" : "hidden"
